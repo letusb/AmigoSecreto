@@ -5,5 +5,6 @@ El challenge asignado, es realizar un proyecto en el cual te toque un amigo secr
 
 ![video demostrartivo](Grabación-de-pantalla-2025-09-21-a-la_s_-14.43.47.gif)
 
-En el caso de que no se ingrese un nombre válido, se muestra una alerta que indica el error.
+En el caso de que no se ingrese un nombre válido, se muestra una alerta que indica el error. Como se muestra en la siguiente captura.
+
 ![Captura de panatalla, alerta: ingrese nombre válido](<Captura de pantalla 2025-09-21 a la(s) 14.45.08.png>)
